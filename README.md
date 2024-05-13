@@ -1,4 +1,4 @@
-andrewrothstein.kind
+aarna_streamkind
 =========
 ![Build Status](https://github.com/andrewrothstein/ansible-kind/actions/workflows/build.yml/badge.svg)
 
@@ -25,7 +25,7 @@ Example Playbook
 ```yml
 - hosts: servers
   roles:
-    - andrewrothstein.kind
+    - aarna_streamkind
 ```
 
 License
